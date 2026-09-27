@@ -6,7 +6,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 
 ### Progress
 
-** 01 / 150 solved**
+**01 / 150 solved**
 
 ---
 
