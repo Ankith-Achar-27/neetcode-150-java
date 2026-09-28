@@ -6,14 +6,14 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 
 ### Progress
 
-**01 / 150 solved**
+**02 / 150 solved**
 
 ---
 
 # 1. Arrays & Hashing — 9
 
 * [x] **217. Contains Duplicate** — Easy
-* [ ] **242. Valid Anagram** — Easy
+* [x] **242. Valid Anagram** — Easy
 * [ ] **1. Two Sum** — Easy
 * [ ] **49. Group Anagrams** — Medium
 * [ ] **347. Top K Frequent Elements** — Medium
