@@ -20,13 +20,10 @@ public class GroupAnagrams49 {
             Arrays.sort(chars);
 
             String key = new String(chars);
-            if(!map.containsKey(key)){
+            if(!map.containsKey(key)) {
                 map.put(key, new ArrayList<>());
-                map.get(key).add(s);
             }
-            else{
                 map.get(key).add(s);
-            }
         }
         for (List<String> list : map.values()) {
             result.add(list);
