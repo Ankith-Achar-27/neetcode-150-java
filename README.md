@@ -16,7 +16,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 * [x] **242. Valid Anagram** — Easy
 * [x] **1. Two Sum** — Easy
 * [x] **49. Group Anagrams** — Medium
-* [ ] **347. Top K Frequent Elements** — Medium
+* [x] **347. Top K Frequent Elements** — Medium
 * [ ] **271. Encode and Decode Strings** — Medium
 * [ ] **238. Product of Array Except Self** — Medium
 * [ ] **36. Valid Sudoku** — Medium
@@ -254,7 +254,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 
 | Category              | Problems | Solved |
 | --------------------- | -------: |-------:|
-| Arrays & Hashing      |        9 |      4 |
+| Arrays & Hashing      |        9 |      5 |
 | Two Pointers          |        5 |      0 |
 | Sliding Window        |        6 |      0 |
 | Stack                 |        6 |      0 |
@@ -272,6 +272,6 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 | Intervals             |        6 |      0 |
 | Math & Geometry       |        8 |      0 |
 | Bit Manipulation      |        7 |      0 |
-| **TOTAL**             |  **150** | **04** |
+| **TOTAL**             |  **150** | **05** |
 
 ---
