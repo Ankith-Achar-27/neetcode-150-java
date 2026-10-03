@@ -6,7 +6,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 
 ### Progress
 
-**11 / 150 solved**
+**12 / 150 solved**
 
 ---
 
@@ -29,7 +29,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 * [x] **125. Valid Palindrome** — Easy
 * [x] **167. Two Sum II - Input Array Is Sorted** — Medium
 * [x] **15. 3Sum** — Medium
-* [ ] **11. Container With Most Water** — Medium
+* [x] **11. Container With Most Water** — Medium
 * [ ] **42. Trapping Rain Water** — Hard
 
 ---
@@ -255,7 +255,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 | Category              | Problems | Solved |
 | --------------------- | -------: |-------:|
 | Arrays & Hashing      |        9 |      8 |
-| Two Pointers          |        5 |      3 |
+| Two Pointers          |        5 |      4 |
 | Sliding Window        |        6 |      0 |
 | Stack                 |        6 |      0 |
 | Binary Search         |        7 |      0 |
@@ -272,6 +272,6 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 | Intervals             |        6 |      0 |
 | Math & Geometry       |        8 |      0 |
 | Bit Manipulation      |        7 |      0 |
-| **TOTAL**             |  **150** | **11** |
+| **TOTAL**             |  **150** | **12** |
 
 ---
