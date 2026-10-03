@@ -6,7 +6,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 
 ### Progress
 
-**07 / 150 solved**
+**08 / 150 solved**
 
 ---
 
@@ -20,7 +20,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 * [x] **271. Encode and Decode Strings** — Medium
 * [x] **238. Product of Array Except Self** — Medium
 * [ ] **36. Valid Sudoku** — Medium
-* [ ] **128. Longest Consecutive Sequence** — Medium
+* [x] **128. Longest Consecutive Sequence** — Medium
 
 ---
 
@@ -254,7 +254,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 
 | Category              | Problems | Solved |
 | --------------------- | -------: |-------:|
-| Arrays & Hashing      |        9 |      7 |
+| Arrays & Hashing      |        9 |      8 |
 | Two Pointers          |        5 |      0 |
 | Sliding Window        |        6 |      0 |
 | Stack                 |        6 |      0 |
@@ -272,6 +272,6 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 | Intervals             |        6 |      0 |
 | Math & Geometry       |        8 |      0 |
 | Bit Manipulation      |        7 |      0 |
-| **TOTAL**             |  **150** | **07** |
+| **TOTAL**             |  **150** | **08** |
 
 ---
