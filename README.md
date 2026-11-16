@@ -6,7 +6,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 
 ### Progress
 
-**12 / 150 solved**
+**13 / 150 solved**
 
 ---
 
@@ -36,7 +36,7 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 
 # 3. Sliding Window — 6
 
-* [ ] **121. Best Time to Buy and Sell Stock** — Easy
+* [x] **121. Best Time to Buy and Sell Stock** — Easy
 * [ ] **3. Longest Substring Without Repeating Characters** — Medium
 * [ ] **424. Longest Repeating Character Replacement** — Medium
 * [ ] **567. Permutation in String** — Medium
@@ -247,31 +247,5 @@ My structured DSA preparation using the **NeetCode 150** roadmap.
 * [ ] **268. Missing Number** — Easy
 * [ ] **371. Sum of Two Integers** — Medium
 * [ ] **7. Reverse Integer** — Medium
-
----
-
-# 📊 Overall Progress
-
-| Category              | Problems | Solved |
-| --------------------- | -------: |-------:|
-| Arrays & Hashing      |        9 |      8 |
-| Two Pointers          |        5 |      4 |
-| Sliding Window        |        6 |      0 |
-| Stack                 |        6 |      0 |
-| Binary Search         |        7 |      0 |
-| Linked List           |       11 |      0 |
-| Trees                 |       15 |      0 |
-| Heap / Priority Queue |        7 |      0 |
-| Backtracking          |       10 |      0 |
-| Tries                 |        3 |      0 |
-| Graphs                |       13 |      0 |
-| Advanced Graphs       |        6 |      0 |
-| 1-D DP                |       12 |      0 |
-| 2-D DP                |       11 |      0 |
-| Greedy                |        8 |      0 |
-| Intervals             |        6 |      0 |
-| Math & Geometry       |        8 |      0 |
-| Bit Manipulation      |        7 |      0 |
-| **TOTAL**             |  **150** | **12** |
 
 ---
